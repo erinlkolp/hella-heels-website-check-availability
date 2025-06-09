@@ -1,0 +1,48 @@
+        collectionsPageData() {
+          var ecommerce = {
+            'items': [
+              
+                {
+                    'product_id': 15023619375478,
+                    'variant_id': 55128570593654,
+                    'vendor': "Man Hunt",
+                    'total_discount': 0,
+                    'variant_title': "UK11 \/ EU44 \/ US13 \/ AU13 - Wide Fit",
+                    'product_title': "Manhunt - Classic Stiletto - 7INCH - LIMITED ED.",
+                    'final_price': Number(8900),
+                    'product_type': "7 inch",
+                    'item_list_id': 222623957145,
+                    'item_list_name': "STILETTOS",
+                    'quantity': 1
+                },
+              
+                {
+                    'product_id': 15023619342710,
+                    'variant_id': 55128570200438,
+                    'vendor': "Man Hunt",
+                    'total_discount': 0,
+                    'variant_title': "UK11 \/ EU44 \/ US13 \/ AU13 - Wide Fit",
+                    'product_title': "Manhunt - Classic Stiletto - 8INCH - LIMITED ED.",
+                    'final_price': Number(8900),
+                    'product_type': "8 inch",
+                    'item_list_id': 222623957145,
+                    'item_list_name': "STILETTOS",
+                    'quantity': 1
+                },
+              
+                {
+                    'product_id': 15023619309942,
+                    'variant_id': 55128569774454,
+                    'vendor': "Man Hunt",
+                    'total_discount': 0,
+                    'variant_title': "UK11 \/ EU44 \/ US13 \/ AU13 - Wide Fit",
+                    'product_title': "Manhunt - Classic Stiletto - 9INCH - LIMITED ED.",
+                    'final_price': Number(8900),
+                    'product_type': "9 inch",
+                    'item_list_id': 222623957145,
+                    'item_list_name': "STILETTOS",
+                    'quantity': 1
+                },
+              
+              ]
+          };
